@@ -1,0 +1,169 @@
+*{
+    background-color: rgb(182, 118, 1);
+    
+}
+.first{
+    
+    height: 350px;
+    width: auto;
+    background-color: rgb(92, 91, 35);
+    margin: 10px;
+    font-style: italic;
+    color:  rgb(92, 91, 35);
+    text-align: center;
+}
+.miss{
+    text-align: center;
+    color: rgb(255, 191, 71);
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.picture2{
+
+    margin: 10px;
+    
+    width: 99%;
+    height: 600px;
+     
+}
+
+li{
+    display: inline;
+    
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    background-color:  rgb(92, 91, 35);
+    color: rgb(5, 10, 73);  
+    margin-right: 20px; 
+    border:5px rgb(233, 208, 126) solid;
+    border-radius: 30px;
+}
+.nav{
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    
+}
+li :hover{
+    color: cornsilk;
+    border:5px rgb(255, 255, 255) solid;
+}
+p{
+    font-weight: bold;
+}
+.video{
+    text-align: center;
+    color: rgb(255, 191, 71);
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+
+}
+.footer{
+    color: rgb(248, 190, 104);
+    text-align: center;
+}
+.about{
+    color: rgb(247, 203, 8);
+    border: 5px rgb(19, 1, 1) solid;
+}
+
+
+
+.chairman{
+    text-align: center;
+    color: rgb(255, 191, 71);
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+    font-size: 40px;
+    border: 4px rgb(206, 187, 14) double;
+    width: 97%;
+
+}
+
+.chairman1{
+    text-align: center;
+    color: rgb(255, 191, 71);
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+    font-size: 40px;
+    
+    width: 97%;
+
+}
+.image{
+    height: 500px;
+}
+.image1{
+    height: 500px;
+}
+.mission{
+    text-align: center;
+    color: rgb(255, 191, 71);
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+    font-size: 30px;
+    
+    width: 97%;
+
+}
+.picture{
+    margin: 10px;
+    
+    width: 100%;
+    height: 600px;
+}
+.image{
+    float: left;
+    width: 33.33%;
+}
+.form1{
+    text-align: center;
+    font-size: 40px;
+    color: wheat;
+}
+.field{
+    border:10px  rgb(255, 191, 71) dashed;
+    margin-top: 80px;
+    padding-top: 50px;
+    font-style: italic;
+}
+input{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(80, 45, 31);
+    
+}
+input::placeholder{
+    color: rgb(80, 45, 31);
+    font-style: italic;
+}
+.new{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 191, 71);
+}
+.last{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    
+    color: rgb(255, 191, 71);
+}
+.button1{
+    text-align: center;
+    
+}
+.button2{
+    font-size: 100px;
+    color:rgb(255, 191, 71) ;
+}
